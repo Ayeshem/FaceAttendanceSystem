@@ -156,13 +156,3 @@ while True:
 # When everything is done, release the capture
 cap.release()
 cv2.destroyAllWindows()
-
-
-
-
-
-
-                   
-
-
-            
